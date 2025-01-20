@@ -1,0 +1,82 @@
+
+
+.createbook{
+   margin: 5rem auto;
+   margin-top: 2%;
+   width: 680px;
+   background-color: rgb(15, 133, 117);
+   padding: 25px;
+}
+
+.createbook h1{
+    color: #fff;
+    text-align: center;
+}
+
+.createbook label{
+    width: 100%;
+    margin: 5px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    
+}
+
+.createbook input{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom:15px;
+    padding: 14px;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid #565656;
+    outline: none;
+   
+}
+
+.createbook input::placeholder{
+    color: #463636;
+}
+
+
+
+.createbook textarea{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom:15px;
+    padding: 14px;
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid #565656;
+    outline: none;
+   
+}
+
+.createbook textarea::placeholder{
+    color: #463636;
+}
+
+
+
+.createbook button{
+    cursor: pointer;
+    width: 100%;
+    margin-top: 1%;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #fff;
+    background-color: rgb(0, 69, 126);
+    border: 1px solid #565656;
+    outline: none;
+    
+}
+
+
+
+
+
+
+
+

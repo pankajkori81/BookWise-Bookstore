@@ -1,0 +1,33 @@
+
+
+
+.deletebook{
+
+    width: 480px;
+    height: 350px;
+    border: 1px solid #565656;
+    border-radius: 16px;
+    margin: 5rem auto;
+    background-color: rgb(152, 255, 255);
+}
+
+.deletebook h2{
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+
+.deletebook button{
+    width: 140px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin-top: 10%;
+    margin-left: 35%;
+    background-color: rgb(3, 76, 78);
+    color: #fff;
+    border: 1px solid #565656;
+    border-radius: 5px;
+      
+}

@@ -1,0 +1,92 @@
+
+
+.booklist{
+
+  margin-top: 2%;
+
+}
+
+.booklist h1{
+    text-align: center;
+    font-size: 38px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+.booklist .line{
+    width: 170px;
+    margin-left: 45%;
+}
+
+
+table {
+
+    margin: 3rem auto;
+    border: 2px solid #111;
+    border-collapse: collapse;
+    color: #000000;
+    background-color: rgb(196, 196, 196);
+    padding: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+}
+
+/* this is head table  */
+thead{
+    font-size: 22px;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(0, 56, 177);
+    color: #fff;
+}
+
+
+
+td ,th{
+    min-width: 15rem;
+    padding: 25px;
+    border: 2px solid #111;
+    
+}
+
+.bookpart .btn-1{
+    width: 80px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: teal;
+   color: #fff;
+   border: 1px solid #565656;
+   border-radius: 5px;
+}
+
+.bookpart .btn-1 a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.bookpart .btn-2{
+    width: 80px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: rgb(128, 0, 6);
+   color: #fff;
+   border: 1px solid #565656;
+   border-radius: 5px;
+
+
+}
+
+.bookpart .btn-2 a{
+    color: #fff;
+    text-decoration: none;
+    
+  
+}
