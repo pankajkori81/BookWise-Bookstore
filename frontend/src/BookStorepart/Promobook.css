@@ -1,0 +1,46 @@
+
+.promobook{
+    margin-top: 10%;
+    margin-bottom: 2%;
+    background-color: rgb(6, 184, 95);
+}
+.promopart{
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+
+.promopart .promo-left{
+   width: 960px;
+    margin-top: 4%;
+    margin-left: 2%;
+    font-size: 30px;
+}
+
+.promopart .promo-left span{
+    color: rgb(0, 0, 63);
+}
+
+.promopart button{
+    margin-top: 4%;
+    width: 145px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #fff;
+    background-color: rgb(0, 87, 158);
+    outline: none;
+    border: 1px solid #565656;
+    border-radius: 5px;
+}
+
+
+.promopart .promo-right img{
+    width: 400px;
+    margin-top: 4%;
+    margin-left: -10%;
+
+}
+

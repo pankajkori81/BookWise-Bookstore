@@ -1,0 +1,47 @@
+
+.other-part{
+    margin-top: 4%;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.otherbook h1{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #fff;
+}
+
+.books{
+    background-color: rgb(0, 16, 31);
+    margin: 5px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.books img{
+    width: 320px;
+    height: 420px;
+    border-radius: 10px;
+}
+
+.books h1{
+    margin-top: 5px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+
+.books p{
+    margin-top: 5px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+}
+

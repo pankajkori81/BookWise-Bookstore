@@ -1,0 +1,80 @@
+
+
+.favbook{
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+
+.favbook .fav-left{
+    margin-top: 4%;
+    margin-left: 4%;
+   
+}
+
+.favbook .fav-left img{
+    width: 720px;
+}
+
+.favbook .fav-right{
+    width: 700px;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+
+.favbook .fav-right h1{
+    width: 650px;
+    font-size: 68px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #fff;
+}
+
+.favbook .fav-right span{
+    color: rgb(0, 179, 134);
+}
+
+.favbook .fav-right p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    margin-top: 2%;
+
+}
+
+
+.favbook .fav-right .download-book{
+
+    display: flex;
+    margin: 25px;
+    margin-top: 8%;
+    
+
+}
+
+
+.favbook .fav-right .items{
+    margin-left: 55px;
+}
+
+
+.favbook .fav-right .items h2{
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color: #fff;
+}
+
+.favbook .fav-right button{
+    width: 165px;
+    font-size: 19px;
+    margin-top: 2%;
+    margin-left: 12%;
+    padding: 11px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #fff;
+    background-color: rgb(22, 97, 158);
+    border: 1px solid #565656;
+    outline: none;
+}
