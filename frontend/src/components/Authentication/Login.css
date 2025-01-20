@@ -1,0 +1,112 @@
+
+.login{
+ 
+    margin: 5rem auto;
+    display: flex;
+ 
+   
+}
+
+.login .login-left{
+
+    margin-left: 6%;
+}
+
+.login-left img{
+    width: 690px;
+    height: 530px;
+    border-radius: 10px;
+    /* box-shadow: 4px 4px 5px #111;  */
+    opacity: .7;
+}
+
+.login .login-part{
+   
+    width: 620px;
+    height: 530px;
+    background-color: rgb(15, 63, 63);
+    padding: 20px;
+    margin-left: 8%;
+    border-radius: 10px;
+}
+
+
+.login-part h2{
+    text-align: center;
+    color: #fff;
+    margin: 4px;
+    margin-bottom: 19px;
+}
+.login-part label{
+    width: 100%;
+    font-size: 18px;
+    color: #fff;
+    margin: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+
+}
+
+.login-part input{
+    width: 100%;
+    padding: 14px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border: 1px solid #565656;
+    outline: none;
+    color: #fff;
+    background-color: #797979be;
+
+}
+
+.login-part input::placeholder{
+    color: #ffffffb0;
+    /* background-color: #797979be; */
+
+}
+
+.login-part .forget{
+   margin: 5px;
+    margin-top:1% ;
+}
+
+
+.login-part button {
+    cursor: pointer;
+    width: 180px;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    outline: none;    
+    color: #fff;
+    background-color: rgb(0, 86, 156);
+    border: 1px solid #565656;
+    outline: none;
+} 
+
+
+.login-part .line{
+    width: 310px;
+    margin-top: 28px;
+    margin-left: 20%;
+}
+
+.login-part p{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    margin-top: 25px;
+    margin-left: 32%;
+}
+
+
+.login-part a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
