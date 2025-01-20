@@ -1,0 +1,94 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: teal;
+    padding: 10px;
+    
+
+}
+
+.navbar h1{
+    cursor: pointer;
+    margin: 15px;
+    color: #fff;
+}
+
+.navbar .active{
+    padding-bottom: 2px;
+    border-bottom: 2px solid brown;
+}
+
+
+.navbar .nav-left{
+
+    display: flex;
+    list-style-type: none;
+    margin: 25px;
+    margin-right: 5%;
+  
+}
+
+.nav-left a{
+
+    color: #fff;
+    text-decoration: none;
+    margin: 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+.nav-left a:hover{
+    border-bottom: 2px solid brown;
+    transition: .3s ease-in-out;
+}
+
+
+ .nav-left .logout-btn{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid #b6b6b6;
+    outline: none;
+    padding: 6px;
+    border-radius: 10px;
+    
+}
+
+ .nav-left .logout-btn:hover{
+    background-color: rgb(13, 0, 128);
+    color: #fff;
+}
+
+
+
+
+.navbar .nav-right{
+    display: flex;
+    list-style-type: none;
+    margin: 25px;
+    margin-right: 5%;
+    list-style-type: none;
+
+}
+
+.nav-right a{
+    
+    text-decoration: none;
+    margin: 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
+    border: 1px solid #ffffffb0;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+.nav-right a:hover{
+
+    border: 2px solid brown;
+}
+
+
+
+
